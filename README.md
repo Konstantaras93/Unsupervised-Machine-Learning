@@ -1,3 +1,3 @@
 # Unsupervised-Machine-Learning
 
-These here code adventurer , are a few examples of unsupervised machine learning
+Welcome code adventurer ! The files inside the folder are a few examples of unsupervised machine learning.
